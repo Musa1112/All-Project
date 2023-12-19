@@ -42,7 +42,7 @@ body{
        margin: 7px 20px;
        height: 60px;
        font-size: 30px;
-       background-color: blue;
+       background-color: rgb(148, 201, 226);
        border-radius: 10px;
    }
    .operator, .number, .empty{
